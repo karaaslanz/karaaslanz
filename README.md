@@ -19,8 +19,9 @@ I focus on correctness, reliability, lifecycle behavior, and maintainability in 
 - [shep-ai/shep #875](https://github.com/shep-ai/shep/pull/875) — update Codex resume CLI syntax.
 - [shep-ai/shep #877](https://github.com/shep-ai/shep/pull/877) — detect the pnpm Windows command shim.
 - [asheshgoplani/agent-deck #2327](https://github.com/asheshgoplani/agent-deck/pull/2327) — fit the embedded preview after session restart.
+- [asheshgoplani/agent-deck #2358](https://github.com/asheshgoplani/agent-deck/pull/2358) — show clear feedback when MCP Manager is unavailable for a tool.
 
-All four changes above were authored from this account and merged upstream.
+All five changes above were authored from this account and merged upstream.
 
 ### Review impact
 
