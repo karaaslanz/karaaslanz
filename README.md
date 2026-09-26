@@ -7,11 +7,16 @@ Founder of [Karaaslan Labs](https://github.com/karaaslanlabs), an AI-native prod
 - Building Karaaslan Labs
 - Developing GüvenCheck
 - Designing AI-native product development systems
+- Co-maintaining [patlux/pi-commandcode-provider](https://github.com/patlux/pi-commandcode-provider)
 - Contributing to open-source AI and developer tooling
 
 ## Open source
 
 I focus on correctness, reliability, lifecycle behavior, and maintainability in AI/developer-tooling projects.
+
+### Maintainer responsibility
+
+- [patlux/pi-commandcode-provider](https://github.com/patlux/pi-commandcode-provider) — co-maintainer with delegated issue-triage, PR review/merge, and release responsibility. My first maintenance action under that role was reviewing and approving automated provider-compatibility PR [#116](https://github.com/patlux/pi-commandcode-provider/pull/116) after its CI/security/compatibility checks passed; the change was then merged to `main`.
 
 ### Selected authored contributions
 
