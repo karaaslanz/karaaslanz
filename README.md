@@ -25,6 +25,7 @@ All five changes above were authored from this account and merged upstream.
 
 ### Review impact
 
+- [openai/openai-agents-python #5083](https://github.com/openai/openai-agents-python/pull/5083) — review identified first a peek→pop TOCTOU race and then a narrower ordering race in compensating wrong-key recovery. The author acknowledged the first finding; the final implementation authenticated the exact claimed SQLite row in the same transaction, rolled back on authentication failure, and added controlled append/clear interleaving coverage that addressed both review threads.
 - [asheshgoplani/agent-deck #2298](https://github.com/asheshgoplani/agent-deck/pull/2298) — review caught a regression where quick-create could preserve custom-tool identity while overwriting an explicit per-session command override. The author updated the implementation and regression coverage; I re-reviewed the corrected head.
 
 Review work is listed separately from authored contributions.
