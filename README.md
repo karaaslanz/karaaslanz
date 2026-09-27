@@ -1,17 +1,19 @@
 # Ömer Karaaslan
 
-**Founder of [Karaaslan Labs](https://github.com/karaaslanlabs) · Core Maintainer of [pi-commandcode-provider](https://github.com/patlux/pi-commandcode-provider)**
+**Founder of [Karaaslan Labs](https://karaaslanlabs.com) · Core Maintainer of [pi-commandcode-provider](https://github.com/patlux/pi-commandcode-provider)**
 
-I build AI-native products and maintain developer tooling, with a focus on reliability, integrations, lifecycle correctness, and production debugging.
+I build technology products and software systems, and maintain developer tooling. My work focuses on reliability, integrations, automation, lifecycle correctness, and production debugging.
 
-**Available for selective paid collaborations** — open-source maintenance, AI/developer-tooling integrations, reliability/debugging, and technical product work.
+At Karaaslan Labs, we develop products, systems, and new technology ventures across different problem areas—using software, AI, automation, and research according to the need.
+
+**Open to selected paid technical collaborations through Karaaslan Labs** — open-source maintenance, AI/developer-tooling integrations, reliability/debugging, and technical product or system work.
 
 📩 **contact@karaaslanlabs.com** · 🌐 **https://karaaslanlabs.com**
 
 ## What I build & maintain
 
-- **[Karaaslan Labs](https://github.com/karaaslanlabs)** — AI-native product company building useful, trustworthy, and scalable digital products.
-- **[GüvenCheck](https://github.com/karaaslanlabs/guvencheck)** — Karaaslan Labs product focused on helping people assess suspicious digital content and decide what to do next.
+- **[Karaaslan Labs](https://karaaslanlabs.com)** — technology company developing products, software systems, and new technology ventures.
+- **[GüvenCheck](https://github.com/karaaslanlabs/guvencheck)** — current Karaaslan Labs product for assessing suspicious digital content and making the risk, reason, and next action easier to understand.
 - **[pi-commandcode-provider](https://github.com/patlux/pi-commandcode-provider)** — core maintainer with delegated issue triage, PR review/merge, and release responsibility.
 
 ## Maintainer work
@@ -43,6 +45,6 @@ Together with `pi-commandcode-provider #122`, these are **six authored upstream 
 
 ## Work with me
 
-For paid OSS maintenance, AI/developer-tooling work, reliability/debugging, or product engineering discussions:
+For selected paid OSS maintenance, AI/developer-tooling work, reliability/debugging, integrations, or technical product and system work through Karaaslan Labs:
 
 **contact@karaaslanlabs.com**
