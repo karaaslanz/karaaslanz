@@ -1,56 +1,48 @@
 # Ömer Karaaslan
 
-Founder of [Karaaslan Labs](https://github.com/karaaslanlabs), an AI-native product company building useful, trustworthy, and scalable digital products.
+**Founder of [Karaaslan Labs](https://github.com/karaaslanlabs) · Core Maintainer of [pi-commandcode-provider](https://github.com/patlux/pi-commandcode-provider)**
 
-## Current focus
+I build AI-native products and maintain developer tooling, with a focus on reliability, integrations, lifecycle correctness, and production debugging.
 
-- Building Karaaslan Labs
-- Developing GüvenCheck
-- Designing AI-native product development systems
-- Co-maintaining [patlux/pi-commandcode-provider](https://github.com/patlux/pi-commandcode-provider)
-- Contributing to open-source AI and developer tooling
+**Available for selective paid collaborations** — open-source maintenance, AI/developer-tooling integrations, reliability/debugging, and technical product work.
 
-## Open source
+📩 **contact@karaaslanlabs.com** · 🌐 **https://karaaslanlabs.com**
 
-I focus on correctness, reliability, lifecycle behavior, and maintainability in AI/developer-tooling projects.
+## What I build & maintain
 
-### Maintainer responsibility
+- **[Karaaslan Labs](https://github.com/karaaslanlabs)** — AI-native product company building useful, trustworthy, and scalable digital products.
+- **[GüvenCheck](https://github.com/karaaslanlabs/guvencheck)** — Karaaslan Labs product focused on helping people assess suspicious digital content and decide what to do next.
+- **[pi-commandcode-provider](https://github.com/patlux/pi-commandcode-provider)** — core maintainer with delegated issue triage, PR review/merge, and release responsibility.
 
-- [patlux/pi-commandcode-provider](https://github.com/patlux/pi-commandcode-provider) — co-maintainer with delegated issue-triage, PR review/merge, and release responsibility. My first maintenance action under that role was reviewing and approving automated provider-compatibility PR [#116](https://github.com/patlux/pi-commandcode-provider/pull/116) after its CI/security/compatibility checks passed; the change was then merged to `main`. I later authored and landed [#122](https://github.com/patlux/pi-commandcode-provider/pull/122), adding time-aware DeepSeek V4 peak pricing across the native Provider API and legacy generate paths with deterministic UTC boundary/weekend coverage.
+## Maintainer work
 
-### Selected authored contributions
+- **[#122](https://github.com/patlux/pi-commandcode-provider/pull/122)** — authored and landed time-aware DeepSeek V4 peak pricing across native and legacy transports, including deterministic UTC boundary/weekend coverage. Approved by the repository owner and merged to `main`.
+- **[#116](https://github.com/patlux/pi-commandcode-provider/pull/116)** — reviewed and approved an automated provider-compatibility update after CI, security, and compatibility checks passed.
 
-- [patlux/pi-commandcode-provider #122](https://github.com/patlux/pi-commandcode-provider/pull/122) — apply DeepSeek V4 time-of-day peak pricing consistently across native and legacy transports.
-- [shep-ai/shep #863](https://github.com/shep-ai/shep/pull/863) — respect `SHEP_HOME` for agent checkpoints.
-- [shep-ai/shep #875](https://github.com/shep-ai/shep/pull/875) — update Codex resume CLI syntax.
-- [shep-ai/shep #877](https://github.com/shep-ai/shep/pull/877) — detect the pnpm Windows command shim.
-- [asheshgoplani/agent-deck #2327](https://github.com/asheshgoplani/agent-deck/pull/2327) — fit the embedded preview after session restart.
-- [asheshgoplani/agent-deck #2358](https://github.com/asheshgoplani/agent-deck/pull/2358) — show clear feedback when MCP Manager is unavailable for a tool.
+## Selected upstream work
 
-All six changes above were authored from this account and merged upstream.
+- **[shep-ai/shep #863](https://github.com/shep-ai/shep/pull/863)** — respect `SHEP_HOME` for agent checkpoints.
+- **[shep-ai/shep #875](https://github.com/shep-ai/shep/pull/875)** — update Codex resume CLI syntax.
+- **[shep-ai/shep #877](https://github.com/shep-ai/shep/pull/877)** — detect the pnpm Windows command shim.
+- **[agent-deck #2327](https://github.com/asheshgoplani/agent-deck/pull/2327)** — fit the embedded preview after session restart.
+- **[agent-deck #2358](https://github.com/asheshgoplani/agent-deck/pull/2358)** — show clear feedback when MCP Manager is unavailable for a tool.
 
-### Review impact
+Together with `pi-commandcode-provider #122`, these are **six authored upstream merges** from this account.
 
-- [openai/openai-agents-python #5083](https://github.com/openai/openai-agents-python/pull/5083) — review identified first a peek→pop TOCTOU race and then a narrower ordering race in compensating wrong-key recovery. The author acknowledged the first finding; the final implementation authenticated the exact claimed SQLite row in the same transaction, rolled back on authentication failure, and added controlled append/clear interleaving coverage that addressed both review threads.
-- [asheshgoplani/agent-deck #2298](https://github.com/asheshgoplani/agent-deck/pull/2298) — review caught a regression where quick-create could preserve custom-tool identity while overwriting an explicit per-session command override. The author updated the implementation and regression coverage; I re-reviewed the corrected head.
+## Review impact
 
-Review work is listed separately from authored contributions.
+- **[openai/openai-agents-python #5083](https://github.com/openai/openai-agents-python/pull/5083)** — identified concurrency/race conditions in recovery logic; the final implementation changed to authenticate the exact claimed SQLite row in the same transaction and added controlled interleaving coverage.
+- **[agent-deck #2298](https://github.com/asheshgoplani/agent-deck/pull/2298)** — caught a regression where quick-create could overwrite an explicit per-session command override; the implementation and regression coverage were updated before re-review.
 
-### Working style
+## How I work
 
-- Trace behavior before proposing a fix.
+- Trace real behavior before proposing a fix.
 - Prefer focused regression coverage over broad rewrites.
-- Keep authorship, review impact, and maintainer responsibility as separate claims.
-- Follow each repository's contribution and AI-disclosure rules.
+- Keep ownership, authorship, review impact, and maintainer responsibility explicit.
+- Optimize for changes that are testable, maintainable, and useful in production.
 
-Current areas of interest:
+## Work with me
 
-- AI agent orchestration and developer tooling
-- Reliability and lifecycle correctness
-- Observability and failure recovery
-- Maintainable, testable contribution paths
+For paid OSS maintenance, AI/developer-tooling work, reliability/debugging, or product engineering discussions:
 
-## Links
-
-- Website: https://karaaslanlabs.com
-- Organization: https://github.com/karaaslanlabs
+**contact@karaaslanlabs.com**
