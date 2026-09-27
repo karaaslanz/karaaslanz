@@ -16,17 +16,18 @@ I focus on correctness, reliability, lifecycle behavior, and maintainability in 
 
 ### Maintainer responsibility
 
-- [patlux/pi-commandcode-provider](https://github.com/patlux/pi-commandcode-provider) — co-maintainer with delegated issue-triage, PR review/merge, and release responsibility. My first maintenance action under that role was reviewing and approving automated provider-compatibility PR [#116](https://github.com/patlux/pi-commandcode-provider/pull/116) after its CI/security/compatibility checks passed; the change was then merged to `main`.
+- [patlux/pi-commandcode-provider](https://github.com/patlux/pi-commandcode-provider) — co-maintainer with delegated issue-triage, PR review/merge, and release responsibility. My first maintenance action under that role was reviewing and approving automated provider-compatibility PR [#116](https://github.com/patlux/pi-commandcode-provider/pull/116) after its CI/security/compatibility checks passed; the change was then merged to `main`. I later authored and landed [#122](https://github.com/patlux/pi-commandcode-provider/pull/122), adding time-aware DeepSeek V4 peak pricing across the native Provider API and legacy generate paths with deterministic UTC boundary/weekend coverage.
 
 ### Selected authored contributions
 
+- [patlux/pi-commandcode-provider #122](https://github.com/patlux/pi-commandcode-provider/pull/122) — apply DeepSeek V4 time-of-day peak pricing consistently across native and legacy transports.
 - [shep-ai/shep #863](https://github.com/shep-ai/shep/pull/863) — respect `SHEP_HOME` for agent checkpoints.
 - [shep-ai/shep #875](https://github.com/shep-ai/shep/pull/875) — update Codex resume CLI syntax.
 - [shep-ai/shep #877](https://github.com/shep-ai/shep/pull/877) — detect the pnpm Windows command shim.
 - [asheshgoplani/agent-deck #2327](https://github.com/asheshgoplani/agent-deck/pull/2327) — fit the embedded preview after session restart.
 - [asheshgoplani/agent-deck #2358](https://github.com/asheshgoplani/agent-deck/pull/2358) — show clear feedback when MCP Manager is unavailable for a tool.
 
-All five changes above were authored from this account and merged upstream.
+All six changes above were authored from this account and merged upstream.
 
 ### Review impact
 
