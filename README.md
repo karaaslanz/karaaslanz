@@ -2,13 +2,13 @@
 
 **Founder of [Karaaslan Labs](https://karaaslanlabs.com) · Core Maintainer of [pi-commandcode-provider](https://github.com/patlux/pi-commandcode-provider)**
 
-I build technology products and software systems, and maintain developer tooling. My work focuses on reliability, integrations, automation, lifecycle correctness, and production debugging.
+I build technology products and software systems through Karaaslan Labs, and maintain open-source developer tooling. My work focuses on reliability, integrations, automation, lifecycle correctness, and production debugging.
 
 At Karaaslan Labs, we develop products, systems, and new technology ventures across different problem areas—using software, AI, automation, and research according to the need.
 
 **Open to selected paid technical collaborations through Karaaslan Labs** — open-source maintenance, AI/developer-tooling integrations, reliability/debugging, and technical product or system work.
 
-📩 **contact@karaaslanlabs.com** · 🌐 **https://karaaslanlabs.com**
+📩 **[contact@karaaslanlabs.com](mailto:contact@karaaslanlabs.com)** · 🌐 **[karaaslanlabs.com](https://karaaslanlabs.com)**
 
 ## What I build & maintain
 
@@ -42,9 +42,3 @@ Together with `pi-commandcode-provider #122`, these are **six authored upstream 
 - Prefer focused regression coverage over broad rewrites.
 - Keep ownership, authorship, review impact, and maintainer responsibility explicit.
 - Optimize for changes that are testable, maintainable, and useful in production.
-
-## Work with me
-
-For selected paid OSS maintenance, AI/developer-tooling work, reliability/debugging, integrations, or technical product and system work through Karaaslan Labs:
-
-**contact@karaaslanlabs.com**
