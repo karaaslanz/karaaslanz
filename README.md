@@ -1,6 +1,6 @@
 # Ömer Karaaslan
 
-**Founder of [Karaaslan Labs](https://karaaslanlabs.com) · Core Maintainer of [pi-commandcode-provider](https://github.com/patlux/pi-commandcode-provider) · Maintainer of [Markdown Reader](https://github.com/petertzy/markdown-reader)**
+**Founder of [Karaaslan Labs](https://karaaslanlabs.com) · Co-maintainer of [pi-commandcode-provider](https://github.com/patlux/pi-commandcode-provider) · Maintainer of [Markdown Reader](https://github.com/petertzy/markdown-reader) · Collaborator on [opencode-mem](https://github.com/tickernelz/opencode-mem)**
 
 I build products, software systems, and technology ventures through Karaaslan Labs. My work spans software engineering, AI, automation, research, integrations, reliability, CI, and production debugging.
 
@@ -9,13 +9,14 @@ Alongside company work, I maintain and contribute to open-source developer tooli
 ## Current work
 
 - **[Karaaslan Labs](https://karaaslanlabs.com)** — products, software systems, and new technology ventures.
-- **[GüvenCheck](https://github.com/karaaslanlabs/guvencheck)** — a Karaaslan Labs product for assessing suspicious digital content and making risk, reasoning, and next actions easier to understand.
-- **[pi-commandcode-provider](https://github.com/patlux/pi-commandcode-provider)** — core maintainer; issue triage, PR review/merge, compatibility work, and releases.
+- **[GüvenCheck](https://github.com/karaaslanlabs/guvencheck)** — a Türkiye-first personal digital trust, decision-support, and protection product from Karaaslan Labs.
+- **[pi-commandcode-provider](https://github.com/patlux/pi-commandcode-provider)** — co-maintainer; issue triage, PR review/merge, compatibility work, and releases.
 - **[Markdown Reader](https://github.com/petertzy/markdown-reader)** — maintainer; issue triage, PR review, CI/reliability, and day-to-day maintenance.
+- **[opencode-mem](https://github.com/tickernelz/opencode-mem)** — repository collaborator; memory-tooling and reliability work following an upstream merged contribution.
 
 ## Open source
 
-Recent work includes contributions and reviews across **Shep**, **agent-deck**, **tensorflow-onnx**, **caarlos0/env**, and **OpenAI Agents Python**, with a recurring focus on compatibility, lifecycle correctness, test coverage, and maintainability.
+Recent work also includes contributions and reviews across **Shep**, **agent-deck**, **tensorflow-onnx**, **caarlos0/env**, and **OpenAI Agents Python**, with a recurring focus on compatibility, lifecycle correctness, test coverage, and maintainability.
 
 ## Contact
 
