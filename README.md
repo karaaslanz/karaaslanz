@@ -19,7 +19,7 @@ Public GitHub activity focuses on open engineering, open-source maintenance, and
 
 ## Open source
 
-Recent work also includes contributions and reviews across **OpenAI Agents Python**, **tensorflow-onnx**, **caarlos0/env*, **agent-deck** and **Shep** with a recurring focus on compatibility, lifecycle correctness, test coverage, and maintainability.
+Recent work also includes contributions and reviews across **OpenAI Agents Python**, **tensorflow-onnx**, **caarlos0/env**, **agent-deck** and **Shep** with a recurring focus on compatibility, lifecycle correctness, test coverage, and maintainability.
 
 ## Contact
 
