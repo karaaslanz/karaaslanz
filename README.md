@@ -21,6 +21,13 @@ Public GitHub activity focuses on open engineering, open-source maintenance, and
 
 Recent work also includes contributions and reviews across **OpenAI Agents Python**, **tensorflow-onnx**, **caarlos0/env**, **agent-deck** and **Shep** with a recurring focus on compatibility, lifecycle correctness, test coverage, and maintainability.
 
+## Selected open-source evidence
+
+- **Merged upstream contributions:** [tensorflow-onnx #2500](https://github.com/onnx/tensorflow-onnx/pull/2500) (ONNX 1.23 compatibility CI), [Markdown Reader #299](https://github.com/petertzy/markdown-reader/pull/299) (stale AI Work result guard), and [opencode-mem #309](https://github.com/tickernelz/opencode-mem/pull/309) (bulk-delete failure handling).
+- **Approved upstream reviews:** [pi-commandcode-provider #131](https://github.com/patlux/pi-commandcode-provider/pull/131) (temporary-file cleanup), [Markdown Reader #315](https://github.com/petertzy/markdown-reader/pull/315) (editing during save), and [opencode-mem #317](https://github.com/tickernelz/opencode-mem/pull/317) (user-profile language handling).
+
+These links document specific contributions and reviews, not blanket ownership or endorsement by the upstream projects.
+
 ## Contact
 
 Open to selected technical collaborations through Karaaslan Labs.
