@@ -28,6 +28,18 @@ Recent work also includes contributions and reviews across **OpenAI Agents Pytho
 
 These links document specific contributions and reviews, not blanket ownership or endorsement by the upstream projects.
 
+## Recent upstream engineering · October 2026
+
+My recent [pi-commandcode-provider](https://github.com/patlux/pi-commandcode-provider) work includes **seven merged upstream PRs** (September–October 2026), spanning:
+
+- **Authentication and privacy:** [OAuth callback origin validation #149](https://github.com/patlux/pi-commandcode-provider/pull/149) and [stream/error redaction #155](https://github.com/patlux/pi-commandcode-provider/pull/155).
+- **Runtime reliability:** [quota request deadlines #152](https://github.com/patlux/pi-commandcode-provider/pull/152) and [stream transport fallback #154](https://github.com/patlux/pi-commandcode-provider/pull/154).
+- **Pricing and release stewardship:** [DeepSeek pricing #122](https://github.com/patlux/pi-commandcode-provider/pull/122), [Grok rate correction #127](https://github.com/patlux/pi-commandcode-provider/pull/127), and [v0.7.3 release preparation #123](https://github.com/patlux/pi-commandcode-provider/pull/123).
+
+I also contribute to larger protocol/tooling ecosystems. For example, [MCP TypeScript SDK #3011](https://github.com/modelcontextprotocol/typescript-sdk/pull/3011) proposes asynchronous tool-output validators. **That PR is open and not merged**; upstream review and acceptance remain with the project maintainers.
+
+My goal is to earn deeper upstream responsibility through precise technical work, useful reviews, verifiable tests, and long-term collaboration.
+
 ## Contact
 
 Open to selected technical collaborations through Karaaslan Labs.
