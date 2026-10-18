@@ -38,6 +38,13 @@ My recent [pi-commandcode-provider](https://github.com/patlux/pi-commandcode-pro
 
 I also contribute to larger protocol/tooling ecosystems. For example, [MCP TypeScript SDK #3011](https://github.com/modelcontextprotocol/typescript-sdk/pull/3011) proposes asynchronous tool-output validators. **That PR is open and not merged**; upstream review and acceptance remain with the project maintainers.
 
+### Review-ready fixes (not upstream merged)
+
+These are **proposed changes in my own forks**, prepared for the original PR authors to assess. They are not upstream approvals or releases.
+
+- **[pi-commandcode-provider #158: routing recovery and protocol compatibility](https://github.com/karaaslanz/pi-commandcode-provider/tree/review/pr158-routing-recovery-compat-20261018)**: preserves provider requests when optional routing configuration is malformed, supports repair through the real Pi 1.3.0 RPC command, and prevents wrong-wire compatibility flags. Local unit, typecheck and Pi-host regression checks passed.
+- **[Markdown Reader #443: editor integration and publication freshness](https://github.com/karaaslanz/markdown-reader/tree/review/pr443-publication-integration-20261018)**: restores editor/project integration and prevents publication previews from using stale selected-tab contents. Local TypeScript, ESLint, production build and three focused regression checks passed. Upstream review remains outstanding.
+
 My goal is to earn deeper upstream responsibility through precise technical work, useful reviews, verifiable tests, and long-term collaboration.
 
 ## Contact
